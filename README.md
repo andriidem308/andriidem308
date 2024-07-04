@@ -1,6 +1,7 @@
 # 👋 👨🏻 Hey there, I'm Andrii!
 
-Welcome to my GitHub profile! I'm a passionate Python Developer with 3 years of experience. I love building scalable backend systems, creating efficient web scrapers, and working with cloud services. Here's a bit more about what I do:
+### Welcome to my GitHub profile! 
+#### I'm a passionate Python Developer with 3 years of experience. I love building scalable backend systems, creating efficient web scrapers, and working with cloud services. Here's a bit more about what I do:
 
 ## 🛠️ My Skills
 
