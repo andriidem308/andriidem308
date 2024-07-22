@@ -29,7 +29,7 @@
 
 ### 🖼 Frontend Technologies
 - **HTML/CSS, Sass/SCSS**
-- **Node.js, jQuery**
+- **React, Node.js, jQuery**
 
 ### 📊 Data & Analytics
 - **Pandas, NumPy, SymPy, Matplotlib**
